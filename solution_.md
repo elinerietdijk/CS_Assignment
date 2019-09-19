@@ -7,4 +7,4 @@ Fantastic yeasts and where to find them: the hidden diversity of dimorphic funga
 
 
 
-![](plot.png)
+![](plot_2.png)
